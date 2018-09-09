@@ -128,7 +128,7 @@
 					
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/2.jpg" alt="Apkabinimas1">
+						<img class="opacity" src="2.jpg" alt="Apkabinimas1">
 						<div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						</div>
@@ -141,7 +141,7 @@
 					
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/7.jpg" alt="Frida">
+						<img class="opacity" src="7.jpg" alt="Frida">
 						<div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						</div>
@@ -154,7 +154,7 @@
 					
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/3.jpg" alt="Apkabinimas2">
+						<img class="opacity" src="3.jpg" alt="Apkabinimas2">
 						<div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						</div>
@@ -167,7 +167,7 @@
 					
 					<div class="responsive contain">
 					  <div class="img">
-						  <img class="opacity" src="images/6.jpg" alt="Apkabinimas5">
+						  <img class="opacity" src="6.jpg" alt="Apkabinimas5">
 						  <div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						  </div>
@@ -180,7 +180,7 @@
 					
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/10.jpg" alt="Angelas be sparno">
+						<img class="opacity" src="10.jpg" alt="Angelas be sparno">
 						<div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						</div>
@@ -193,7 +193,7 @@
 					
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/13_3.jpg" alt="Veidai2-1">
+						<img class="opacity" src="13_3.jpg" alt="Veidai2-1">
 						<div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						</div>
@@ -206,7 +206,7 @@
 
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/14.jpg" alt="Veidai2-2">
+						<img class="opacity" src="14.jpg" alt="Veidai2-2">
 						<div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						</div>  
@@ -219,7 +219,7 @@
 
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/15.jpg" alt="Veidai2-3">
+						<img class="opacity" src="15.jpg" alt="Veidai2-3">
 						<div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						</div>
@@ -232,7 +232,7 @@
 
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/16.jpg" alt="Veidai2-4">
+						<img class="opacity" src="16.jpg" alt="Veidai2-4">
 						<div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						</div>
@@ -246,7 +246,7 @@
 					
 					<div class="responsive contain">
 					  <div class="img">
-						  <img class="opacity" src="images/1.jpg" alt="Angelas">
+						  <img class="opacity" src="1.jpg" alt="Angelas">
 						<div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						</div>
@@ -259,7 +259,7 @@
 
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/18.jpg" alt="Rhum Room">
+						<img class="opacity" src="18.jpg" alt="Rhum Room">
 						<div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						</div>
@@ -272,7 +272,7 @@
 
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/17.jpg" alt="Veidas">
+						<img class="opacity" src="17.jpg" alt="Veidas">
 						<div class="shake">
 							<p style="font-style: italic;">Rado naujus namus</p>
 						</div>
@@ -285,7 +285,7 @@
 					
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/8.jpg" alt="Geles ant galvos">
+						<img class="opacity" src="8.jpg" alt="Geles ant galvos">
 						<div class="shake">
 							<p style="font-style: italic;">Ieško naujų namų</p>
 						</div>
@@ -298,7 +298,7 @@
 
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/11.jpg" alt="Veidai1-1">
+						<img class="opacity" src="11.jpg" alt="Veidai1-1">
 						<div class="shake">
 							<p style="font-style: italic;">Ieško naujų namų</p>
 						</div>
@@ -311,7 +311,7 @@
 
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/12.jpg" alt="Veidai1-2">
+						<img class="opacity" src="12.jpg" alt="Veidai1-2">
 						<div class="shake">
 							<p style="font-style: italic;">Ieško naujų namų</p>
 						</div>
@@ -324,7 +324,7 @@
 					
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/9.jpg" alt="Sokis">
+						<img class="opacity" src="9.jpg" alt="Sokis">
 						<div class="shake">
 							<p style="font-style: italic;">Ieško naujų namų</p>
 						</div>
@@ -337,7 +337,7 @@
 
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/4.jpg" alt="Apkabinimas3">
+						<img class="opacity" src="4.jpg" alt="Apkabinimas3">
 						<div class="shake">
 							<p style="font-style: italic;">Ieško naujų namų</p>
 						</div>
@@ -350,7 +350,7 @@
 
 					<div class="responsive contain">
 					  <div class="img">
-						<img class="opacity" src="images/5.jpg" alt="Apkabinimas4">
+						<img class="opacity" src="5.jpg" alt="Apkabinimas4">
 						<div class="shake">
 							<p style="font-style: italic;">Ieško naujų namų</p>
 						</div>
