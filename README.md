@@ -4,3 +4,4 @@ I don't need much information for this type of website because for me the most i
 So i did the one page website. I used html, css, javascript and php. 
 My future plans are to add more media queries, the „Load more“ button for my paintings, portfolio gallery with filtering, 
 quotes slideshow and parallax scrolling.
+I‘m thinking of further courses – Web design or Front-end (or maybe both).
