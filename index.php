@@ -484,43 +484,43 @@
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner">	
 							<div class="item active">
-								<img class="img-responsive center-block" class ="carousel-image" src="images/c1.jpg" alt="1"/>
+								<img class="img-responsive center-block" class ="carousel-image" src="c1.jpg" alt="1"/>
 								<div class="carousel-caption">
 								</div>
 							</div>
  
 							<div class="item">
-								<img class="img-responsive center-block" class="carousel-image" src="images/c2.jpg" alt="2"/>
+								<img class="img-responsive center-block" class="carousel-image" src="c2.jpg" alt="2"/>
 								<div class="carousel-caption">
 								</div>
 							</div> 
 
 							<div class="item">
-								<img class="img-responsive center-block" class="carousel-image" src="images/c3.jpg" alt="3"/>
+								<img class="img-responsive center-block" class="carousel-image" src="c3.jpg" alt="3"/>
 								<div class="carousel-caption">
 								</div>
 							</div>
 							
 							<div class="item">
-								<img class="img-responsive center-block" class="carousel-image" src="images/c4.jpg" alt="4"/>
+								<img class="img-responsive center-block" class="carousel-image" src="c4.jpg" alt="4"/>
 								<div class="carousel-caption">
 								</div>
 							</div>
 							
 							<div class="item">
-								<img class="img-responsive center-block" class="carousel-image" src="images/c5.jpg" alt="5"/>
+								<img class="img-responsive center-block" class="carousel-image" src="c5.jpg" alt="5"/>
 								<div class="carousel-caption">
 								</div>
 							</div>
 							
 							<div class="item">
-								<img class="img-responsive center-block" class="carousel-image" src="images/c6.jpg" alt="6"/>
+								<img class="img-responsive center-block" class="carousel-image" src="c6.jpg" alt="6"/>
 								<div class="carousel-caption">
 								</div>
 							</div>
 							
 							<div class="item">
-								<img class="img-responsive center-block" class="carousel-image" src="images/c7.jpg" alt="7"/>
+								<img class="img-responsive center-block" class="carousel-image" src="c7.jpg" alt="7"/>
 								<div class="carousel-caption">
 								</div>
 							</div>
